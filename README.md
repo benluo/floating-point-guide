@@ -29,7 +29,7 @@
 - [x] 负责人: benluo | 完成度: 100% | [content/languages/php.md](content/languages/php.md)
 - [x] 负责人: benluo | 完成度: 100% | [content/languages/java.md](content/languages/java.md)
 - [x] 负责人: benluo | 完成度: 100% | [content/references.md](content/references.md)
-- [x] 负责人: benluo | 完成度: 100% | [content/xkcd.md](content/xkcd.md)
+- [ ] 负责人: benluo | 完成度: 10% | [content/xkcd.md](content/xkcd.md)
 
 ----
 
